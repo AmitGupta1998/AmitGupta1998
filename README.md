@@ -7,8 +7,6 @@ I'm **Amit Kumar Gupta**, a passionate Web Developer with 3 years of professiona
 - 👨‍💻 **Technology Enthusiast:** I'm always exploring new developer tools and technologies, particularly interested in the developer options of Google and Facebook.
 - ✍️ **Blogger:** I share my knowledge and experiences through my blogs. You can check out my work on:
   - [Code With Code](https://codewithcode.com/)
-  - [Decent Amit](https://decentamit.blogspot.com/)
-  - [Mafia Tech Tech](https://mafiatechtech.blogspot.com/)
 
 ### Collaboration & Contact:
 - 🤝 **Collaborate:** I'm open to collaborating on exciting web development projects, especially those involving WordPress.
