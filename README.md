@@ -5,8 +5,6 @@ I'm **Amit Kumar Gupta**, a passionate Web Developer with 3 years of professiona
 ### What I Do:
 - 🌐 **Web Development:** I specialize in using CI (CodeIgniter) for development and am currently diving deep into WordPress.
 - 👨‍💻 **Technology Enthusiast:** I'm always exploring new developer tools and technologies, particularly interested in the developer options of Google and Facebook.
-- ✍️ **Blogger:** I share my knowledge and experiences through my blogs. You can check out my work on:
-  - [Code With Code](https://codewithcode.com/)
 
 ### Collaboration & Contact:
 - 🤝 **Collaborate:** I'm open to collaborating on exciting web development projects, especially those involving WordPress.
@@ -21,7 +19,6 @@ I'm **Amit Kumar Gupta**, a passionate Web Developer with 3 years of professiona
 
 ### Connect with Me:
 - 🏙️ Gurgaon, Haryana, India
-- 🌐 [www.codewithcode.com](https://www.codewithcode.com)
 - 🐦 [Twitter @AMIT5097](https://twitter.com/AMIT5097)
 
 ---
